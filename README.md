@@ -18,7 +18,10 @@ Project is created with:
 * NetBeans
 
 ## Setup
-
+```
+$ cd LarzPizzaFinalVerizon/dist/
+$ java -jar LarzPizza.jar
+```
 ## Screenshots
 
 ## Contribute
