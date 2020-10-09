@@ -13,7 +13,7 @@ This is a pizza ordering system for Intro to Software Engineering.
 
 ## Technologies
 Project is created with:
-* Java (Version )
+* Java (Version 1.8)
 * JavaFX
 * NetBeans
 
