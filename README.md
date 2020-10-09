@@ -5,8 +5,8 @@ This is a pizza ordering system for Intro to Software Engineering.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* Screenshots(#screenshots)
-* Contribute(#contribute)
+* [Screenshots](#screenshots)
+* [Contribute](#contribute)
 
 ## General info
 
