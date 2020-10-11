@@ -6,6 +6,9 @@ This is a pizza ordering system for Intro to Software Engineering.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
+  * [Menu](#menu)
+  * [Login](#login)
+  * [Checkout & Order Confirmation](#checkout-&-order-confirmation)
 * [Contribute](#contribute)
 
 ## General info
