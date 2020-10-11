@@ -23,6 +23,13 @@ $ cd LarzPizzaFinalVerizon/dist/
 $ java -jar LarzPizza.jar
 ```
 ## Screenshots
+
+### Menu 
 ![](https://media.giphy.com/media/UKyURXUILsOag8sxOW/giphy.gif)
+
+### Login
+
+### Checkout & Order Confirmation
+
 ## Contribute
 **Contributors:** Adam Chung, Rutvik Marakana, Liam Hardage, Zachary Okwuosa
