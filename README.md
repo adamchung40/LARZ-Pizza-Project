@@ -31,7 +31,7 @@ $ java -jar LarzPizza.jar
 ![](https://media.giphy.com/media/UKyURXUILsOag8sxOW/giphy.gif)
 
 ### Login
-![](https://i.imgur.com/x1aSKR2.png | width=100)
+![](https://i.gyazo.com/fb49ed18aad2eaca77b0ddd0a4a62438.png)
 ### Checkout & Order Confirmation
 
 ## Contribute
